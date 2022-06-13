@@ -1,0 +1,14 @@
+C:\Users\leand\source\repos\AutoInspektionInfo\obj\Debug\netcoreapp3.1\AutoInspektionInfo.csproj.AssemblyReference.cache
+C:\Users\leand\source\repos\AutoInspektionInfo\obj\Debug\netcoreapp3.1\AutoInspektionInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\source\repos\AutoInspektionInfo\obj\Debug\netcoreapp3.1\AutoInspektionInfo.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\AutoInspektionInfo\obj\Debug\netcoreapp3.1\AutoInspektionInfo.AssemblyInfo.cs
+C:\Users\leand\source\repos\AutoInspektionInfo\obj\Debug\netcoreapp3.1\AutoInspektionInfo.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\AutoInspektionInfo\bin\Debug\netcoreapp3.1\AutoInspektionInfo.exe
+C:\Users\leand\source\repos\AutoInspektionInfo\bin\Debug\netcoreapp3.1\AutoInspektionInfo.deps.json
+C:\Users\leand\source\repos\AutoInspektionInfo\bin\Debug\netcoreapp3.1\AutoInspektionInfo.runtimeconfig.json
+C:\Users\leand\source\repos\AutoInspektionInfo\bin\Debug\netcoreapp3.1\AutoInspektionInfo.runtimeconfig.dev.json
+C:\Users\leand\source\repos\AutoInspektionInfo\bin\Debug\netcoreapp3.1\AutoInspektionInfo.dll
+C:\Users\leand\source\repos\AutoInspektionInfo\bin\Debug\netcoreapp3.1\AutoInspektionInfo.pdb
+C:\Users\leand\source\repos\AutoInspektionInfo\obj\Debug\netcoreapp3.1\AutoInspektionInfo.dll
+C:\Users\leand\source\repos\AutoInspektionInfo\obj\Debug\netcoreapp3.1\AutoInspektionInfo.pdb
+C:\Users\leand\source\repos\AutoInspektionInfo\obj\Debug\netcoreapp3.1\AutoInspektionInfo.genruntimeconfig.cache

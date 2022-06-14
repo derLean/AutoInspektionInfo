@@ -7,7 +7,7 @@ namespace AutoInspection2
         static void Main()
         {
             Car[] cars = new Car[8];
-            cars[0] = new Car("Mercedes G", 2008, 2014);
+            cars[0] = new Car("Mercedes G", 2008, 2014);    //"Auto", Baujahr, Letzte Inspektion
             cars[1] = new Car("BMW 3", 2001, 2010);
             cars[2] = new Car("Audi A6", 2005, 2018);
             cars[3] = new Car("Audi A8", 2012, 2018);

@@ -6,7 +6,7 @@ namespace AutoInspection2
     {
         static void Main()
         {
-            Car[] cars = new Car[7];
+            Car[] cars = new Car[8];
             cars[0] = new Car("Mercedes G", 2008);
             cars[1] = new Car("BMW 3", 2001);
             cars[2] = new Car("Audi A6", 2005);
@@ -14,6 +14,7 @@ namespace AutoInspection2
             cars[4] = new Car("Hyundai", 2003);
             cars[5] = new Car("Toyota", 1995);
             cars[6] = new Car("Porsche 911 GT3", 2021);
+            cars[7] = new Car("VW Golf R32", 2002);
 
             Console.WriteLine("Bitte geben sie einen Suchbegriff ein:");
 

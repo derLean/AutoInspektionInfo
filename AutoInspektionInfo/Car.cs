@@ -12,10 +12,11 @@ namespace AutoInspection2
 
 
         //Konstruktor
-        public Car(string newName, int newBaujahr)
+        public Car(string newName, int newBaujahr, int newInspectoinYear)
         {
             carName = newName;
             baujahr = newBaujahr;
+            lastInspectionYear = newInspectionYear;
         }
 
         public void Inspect()
